@@ -27,8 +27,6 @@ html, body {
   padding: 3vh;
 }
 
-
-
 .navbar-nav > li{
   padding: 20px;
   padding-right: 0px;
@@ -38,6 +36,7 @@ html, body {
 }
 
 .main {
+  font-family: 'Raleway', sans-serif;
   background-color: white;
 }
 
