@@ -18,7 +18,7 @@ html, body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  text-align: right;
+  text-align: center;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   color: white;
@@ -27,8 +27,18 @@ html, body {
   padding: 3vh;
 }
 
-.clearfix {
-  clear: both;
+
+
+.navbar-nav > li{
+  padding: 20px;
+  padding-right: 0px;
+  margin: 0px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+.main {
+  background-color: white;
 }
 
 .footer {
