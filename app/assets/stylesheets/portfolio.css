@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  #background-color: #808080;
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+  font-size: 1.2em;
+  color: white;
+}
+
+.jumbotron {
+  background: url(https://dl.dropboxusercontent.com/u/22628728/Camboya.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: right;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color: white;
+  height: 100vh;
+	margin-bottom: 0px;
+  padding: 3vh;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
